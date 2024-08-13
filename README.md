@@ -14,6 +14,7 @@
 <h2>NICE Framework KSAs</h2>
 
 <h2>Lesson Prerequisites</h2>
+Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced. 
 
 <h2>Body of lesson</h2>
 
