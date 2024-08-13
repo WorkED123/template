@@ -30,5 +30,6 @@ Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lesso
 <h2>Definitions</h2>
 
 <h2> Presentation</h2>
+<h2> Hands on Labs </h2>
 <h2>Games</h2>
 <h2> Additonal Resources</h2>
